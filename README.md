@@ -1,27 +1,23 @@
-# Awesome Bayarea Café
+# Awesome Bay Area Café
 
-湾区那些~~网速快~~咖啡好的咖啡馆。不同颜色的标记代表不同的下载速度。
+Awesome café places in Bay Area with ~~fast Wi-Fi and~~ good coffee. Markers with different colors are used for different download speed.
 
-Inspired by [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe)
+Inspired by [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe).
 
 <table>
-<tr><th>标记</th><th>下载速度</th></tr>
+<tr><th>Marker</th><th>Download Speed</th></tr>
 <tr><td><img src="resources/markers/slow.png" width="50" alt="Slow marker"></td><td>0 ~ 5 Mbps</td></tr>
 <tr><td><img src="resources/markers/moderate.png" width="50" alt="Moderate marker"></td><td>5 ~ 10 Mbps</td></tr>
 <tr><td><img src="resources/markers/fast.png" width="50" alt="Fast marker"></td><td>10+ Mbps</td></tr>
 </table>
 
-## 城市列表
+## Contribution
 
-* [上海 (16)](shanghai.geojson)
+Pull requests for awesome coffee shops are welcome! Please use [Speedtest](http://speedtest.net) or other tools to measure network speed, then add to the [geoJSON](http://geojson.org/geojson-spec.html) file.
 
-## 贡献
+### Getting Location
 
-欢迎发 pull request 添加你去过的咖啡馆。请用 [Speedtest](http://speedtest.net) 或其他工具测试网络速度，然后添加到相应的 [geoJSON](http://geojson.org/geojson-spec.html) 中。如果没有你所在的城市，请新建一个 geoJSON 文件。格式请参见 [shanghai.geojson](shanghai.geojson)。
+Please [Mapbox](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/) to get latitude and longitude. GitHub’s geoJSON support is powered by Mapbox, locations acquired from Google Maps are not accurate.
 
-### 注意
-
-请使用 Mapbox 的[显示经纬度](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/)来获取经纬度，在 Google Maps 上通过 What’s here 取得的经纬度有些许偏差。
-
-## 授权
+## License
 [CC-BY](http://creativecommons.org/licenses/by/4.0/)

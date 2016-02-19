@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Books Inc.",
+        "下载速度": "[TBD] Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/[TBD]",
+        "参考价格": "3-7 刀",
+        "热拿铁": "4 刀",
+        "评论 (@xhacker)": "在一家书店的二楼, 咖啡算是非常便宜.",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.39236126306863,
+          -482.0796757936477
+        ]
+      }
+    }
+  ]
+}

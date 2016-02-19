@@ -17,7 +17,7 @@ Pull requests for awesome coffee shops are welcome! Please use [Speedtest](http:
 
 ### Getting Location
 
-Please [Mapbox](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/) to get latitude and longitude. GitHub’s geoJSON support is powered by Mapbox, locations acquired from Google Maps are not accurate.
+Because GitHub’s geoJSON support is powered by Mapbox, Using [Mapbox](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/) is the most accurate way to get latitude and longitude.
 
 ## License
 [CC-BY](http://creativecommons.org/licenses/by/4.0/)

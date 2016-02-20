@@ -1,6 +1,6 @@
-# Awesome Bay Area Café
+# Awesome Coffee Shops
 
-Awesome café places in Bay Area with ~~fast Wi-Fi and~~ good coffee. Markers with different colors are used for different download speed.
+Awesome coffee shops with ~~fast Wi-Fi and~~ good coffee. Markers with different colors are used for different download speed.
 
 Inspired by [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe).
 
@@ -11,9 +11,13 @@ Inspired by [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe).
 <tr><td><img src="resources/markers/fast.png" width="50" alt="Fast marker"></td><td>10+ Mbps</td></tr>
 </table>
 
+## Regions
+
+* [Bay Area (1)](bayarea.geojson)
+
 ## Contribution
 
-Pull requests for awesome coffee shops are welcome! Please use [Speedtest](http://speedtest.net) or other tools to measure network speed, then add to the [geoJSON](http://geojson.org/geojson-spec.html) file.
+Pull requests for awesome coffee shops are welcome! Please use [Speedtest](http://speedtest.net) or other tools to measure network speed, then add to the [geoJSON](http://geojson.org/geojson-spec.html) file. If it doesn’t have the region you live in, please create a new geoJSON file using the same format as in [bayarea.json](bayarea.json). 
 
 ### Getting Location
 

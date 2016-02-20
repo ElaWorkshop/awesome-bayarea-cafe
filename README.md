@@ -14,6 +14,7 @@ Inspired by [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe).
 ## Regions
 
 * [Bay Area (1)](bayarea.geojson)
+* [Metro Vancouver (0)](vancouver.geojson)
 
 ## Contribution
 
